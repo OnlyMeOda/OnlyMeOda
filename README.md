@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hello there 👋
 
 Just trying to figure this out 🫡
+<img src="https://imgs.search.brave.com/PHIRDEbjFhntV_Kbf_KdomVNifU36_T_Mkq7sMKBmWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjI2/NDY0MTU4L3Bob3Rv/L2NhdC13aXRoLW9w/ZW4tbW91dGguanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVFy/OURDVmt3S21fZHpm/amtlTjVmb0NCcDdj/M0VmQkZfaTJBMGV0/WWlKT0E9">
 
 <!--
 **OnlyMeOda/OnlyMeOda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
